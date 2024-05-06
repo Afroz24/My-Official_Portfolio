@@ -385,9 +385,12 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 70%;
+    width: 75%;
 }
 .skills-content .right .js::before{
+    width: 70%;
+}
+.skills-content .right .jq::before{
     width: 60%;
 }
 .skills-content .right .c::before{
